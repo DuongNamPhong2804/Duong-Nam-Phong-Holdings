@@ -350,4 +350,4 @@ console.log('%c🚀 Duong Nam Phong Holdings', 'color: #2563eb; font-size: 24px;
 console.log('%cWebsite developed with ❤️', 'color: #7c3aed; font-size: 14px;');
 console.log('%cVisit our brands:', 'color: #334155; font-size: 12px;');
 console.log('%c- License Zone Store: https://licensezone.store', 'color: #10b981; font-size: 12px;');
-console.log('%c- Zyxtron Proxy: https://zyxtron.com', 'color: #10b981; font-size: 12px;');
+console.log('%c- Zyxtron Social Media - Agency: https://zyxtron.com', 'color: #10b981; font-size: 12px;');
